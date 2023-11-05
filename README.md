@@ -1,2 +1,2 @@
 # 2-way-mirror
-Two way mirror Test
+Two way mirror
